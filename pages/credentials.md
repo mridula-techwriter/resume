@@ -1,6 +1,6 @@
 # Credentials
 
-Here you'll get to know all the tools I have worked with, all the professional certifications I have acquired, and all the applications I have used during my career. Some of the apps are outdated and some I may not have used in a long time. However, the bottom line is that I find it fairly easy
+Here you'll get to know all the tools I have worked with, all the professional certifications I have acquired, and all the applications I have used during my career. Some of the apps are outdated and some I may not have used in a long time. I have a keen interest in learning new tools hence I can start contributing to the team within a short span of time.
 
 ## Applications Used
 * Walk Me (DAP)
