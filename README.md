@@ -1,2 +1,2 @@
 # resume
-This repository is creating exclusively to summarize my career journey.
+This repository is exclusively created to summarize my career journey.
