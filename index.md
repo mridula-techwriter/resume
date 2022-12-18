@@ -11,3 +11,5 @@ I have included some of my writing samples as well. Using this website you will 
 
 # Table of Contents
 1. [Self Introduction](Pages/introduction.md)
+2. [Credentials](pages/credentials.md)
+3. [Projects](pages/projects.md)
