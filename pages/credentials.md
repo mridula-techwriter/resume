@@ -1,6 +1,6 @@
 # Credentials
 
-Here you'll get to know all the tools I have worked with, all the professional certifications I have acquired, and all the applications I have used during my career. Some of the apps are outdated and some I may not have used in a long time. I have a keen interest in learning new tools hence I can start contributing to the team goals within a short span of time.
+Here you'll get to know all the doc tools I have used, all the professional certifications I have acquired, and all the applications I have used during my career. Some of the apps are outdated and some I may not have used in a long time. I have a keen interest in learning new tools hence I can start contributing to the team goals within a short span of time.
 
 ## Applications Used
 * Walk Me (DAP)
@@ -22,7 +22,7 @@ Here you'll get to know all the tools I have worked with, all the professional c
 * Oxygen
 * Arbortext
 
-## Certifications Earned
+## Certificates Earned
 * CSS Fundamentals
 * Train the Trainer
 * REST API Documentation
